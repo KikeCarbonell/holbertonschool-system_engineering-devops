@@ -1,0 +1,35 @@
+total 132
+drwxrwxr-x 5 kike kike 4096 abr 20 11:58 .
+drwxrwxr-x 6 kike kike 4096 abr 19 14:27 ..
+-rwxrw-r-- 1 kike kike   32 abr 19 15:16 0-hello_world
+-rwxrw-r-- 1 kike kike   40 abr 19 17:50 100-empty_casks
+-rwxrw-r-- 1 kike kike  187 abr 19 17:51 101-gifs
+-rwxrw-r-- 1 kike kike   48 abr 19 18:38 10-no_more_js
+-rwxrw-r-- 1 kike kike   35 abr 19 17:22 11-directories
+-rwxrw-r-- 1 kike kike  110 abr 19 18:32 12-newest_files
+-rwxrw-r-- 1 kike kike   12 abr 19 17:30 13-unique
+-rwxrw-r-- 1 kike kike   36 abr 19 17:34 14-findthatword
+-rwxrw-r-- 1 kike kike   38 abr 19 17:39 15-countthatword
+-rwxrw-r-- 1 kike kike   41 abr 19 17:40 16-whatsnext
+-rwxrw-r-- 1 kike kike   38 abr 19 17:42 17-hidethisword
+-rwxrw-r-- 1 kike kike   50 abr 19 17:43 18-letteronly
+-rwxrw-r-- 1 kike kike   42 abr 19 17:44 19-AZ
+-rwxrw-r-- 1 kike kike   28 abr 19 15:19 1-confused_smiley
+-rwxrw-r-- 1 kike kike   77 abr 19 17:46 20-hiago
+-rwxrw-r-- 1 kike kike   70 abr 19 17:47 21-reverse
+-rwxrw-r-- 1 kike kike   56 abr 19 17:48 22-user_and_homes
+-rwxrw-r-- 1 kike kike   28 abr 19 14:34 2-hellofile
+-rwxrw-r-- 1 kike kike   40 abr 19 14:37 3-twofiles
+-rwxrw-r-- 1 kike kike   35 abr 19 14:40 4-lastlines
+-rwxrw-r-- 1 kike kike   35 abr 19 14:44 5-firstlines
+-rwxrw-r-- 1 kike kike   30 abr 19 14:48 6-third_line
+-rwxrw-r-- 1 kike kike   79 abr 19 16:43 #7-file#
+-rwxrw-r-- 1 kike kike   79 abr 19 16:49 7-file
+-rwxrw-r-- 1 kike kike   36 abr 19 14:56 8-cwd_state
+-rwxrw-r-- 1 kike kike   73 abr 19 16:59 9-duplicate_last_line
+-rwxrw-r-- 1 kike kike   12 abr 20 11:59 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+drwxrwxr-x 2 kike kike 4096 abr 19 18:41 dir1
+drwxrwxr-x 2 kike kike 4096 abr 19 17:07 dir.js
+-rwxrw-r-- 1 kike kike  857 abr 19 16:59 iacta
+-rwxrw-r-- 1 kike kike    0 abr 20 12:00 ls_cwd_content
+drwxrwxr-x 2 kike kike 4096 abr 19 17:07 main.js
