@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet https://www.youtube.com/results?search_query=episodio+StarWars+IV
+telnet towel.blinkenlights.nl
