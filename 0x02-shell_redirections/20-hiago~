@@ -1,4 +1,0 @@
-#!/bin/bash
-entrada=$1
-salida=$(echo "$entrada" | tr -d 'cC')
-echo "$salida"
