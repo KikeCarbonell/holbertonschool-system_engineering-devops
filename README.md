@@ -1,6 +1,6 @@
 My readme on shell basics
 ==========================
-Permissions
+Shell Permissions
 ==========================
 Shell I/O Redirections, Filters
 ==========================
