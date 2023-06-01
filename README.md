@@ -4,7 +4,7 @@ Shell Permissions
 ==========================
 Shell I/O Redirections, Filters
 ==========================
-# Shell, init files, variables and expansions
+# Shell init files, variables and expansions
 		
 Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters `$?` and single an double quotes in **Shell**.
 
@@ -35,3 +35,4 @@ All of the following files are scripts:
 | `102-water_and_str` | Adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result |
 
 ==========================
+Shell loops, conditions and parsing
